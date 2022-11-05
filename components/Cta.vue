@@ -7,7 +7,7 @@
         </div>
 
         <!-- image -->
-        <div class="flex flex-row justify-center order-1 md:order-2 w-full md:w-1/2 md:h-3/4 h-2/3 overflow-hidden">
+        <div class="flex flex-row justify-center order-1 md:order-2 w-full md:w-1/2 md:h-3/4 xl:h-full h-2/3 overflow-hidden">
                 <img src="https://images.pexels.com/photos/775358/pexels-photo-775358.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="" srcset="" class=" rounded-xl object-cover md:h-full h-full self-center md:w-full">
         </div>
     </div>
