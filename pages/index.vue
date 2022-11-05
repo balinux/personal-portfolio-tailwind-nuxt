@@ -1,5 +1,9 @@
 <template>
-  <Tutorial/>
+  <!-- <Tutorial/> -->
+  <main>
+    <Navigation />
+    <Cta />
+  </main>
 </template>
 
 <script>
